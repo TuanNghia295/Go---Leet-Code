@@ -12,6 +12,11 @@ func main() {
 	// fmt.Println(firstPalindrome([]string{"abc","car","aba"}))
 	// fmt.Println(differenceOfSum([]int{1,15,6,3}))
 	// fmt.Println(sumOfMultiples(7))
-	fmt.Println(xorOperation(5,0))
+	// fmt.Println(xorOperation(5,0))
+	// fmt.Println(differenceOfSums(10,3))
+	// fmt.Println(toLowerCase("Hello"))
+
+	fmt.Println(countKeyChanges("aAbBcC"))
+
 	
 }
